@@ -1,0 +1,41 @@
+.cat {
+	text-align: center;
+	font-family: monospace;
+	color: #ff5980;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+h3 {
+	text-align: center;
+	font-family: monospace;
+	color: #1c8744
+}
+h4 {
+	text-align: center;
+	font-family: monospace	;
+	color: #0b2375
+}
+.dog{
+	text-align: center;
+	font-family: monospace;
+	color: #ff5980;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-decoration: line-through;
+}
+.table {
+	background-color: #b8e5ff;
+	text-align: center;
+	font-family: monospace;
+	color:#3b077a;
+	border-top:dotted 10px #23a1eb;
+	border-bottom:dotted 10px #23a1eb;
+	border-right:dashed 10px #23a1eb;
+	border-left:dashed 10px #23a1eb;
+	margin:20px;
+	padding: 10px
+}
+.form {
+	align-items: center;
+}
